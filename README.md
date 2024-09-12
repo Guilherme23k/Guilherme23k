@@ -25,4 +25,8 @@
 
 ## GitHub Status
 
-![Top Langs](![Guilherme23k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme23k&theme=vue-dark&hide_border=true))
+<div align="center">
+  
+[![Guilherme23k top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme23k&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
