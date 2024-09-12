@@ -25,4 +25,4 @@
 
 ## GitHub Status
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilherme23k&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](![Guilherme23k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme23k&theme=vue-dark&hide_border=true))
